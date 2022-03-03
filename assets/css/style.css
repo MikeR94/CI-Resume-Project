@@ -11,7 +11,11 @@
 }
 
 .bg-color-personal-info {
-    background-color: #f4f4f4;
+    background-color: #e67e22;
+}
+
+.bg-color-contact-info {
+    background-color: #3498db;
 }
 
 .bg-color-work-history {
@@ -77,6 +81,7 @@ h4 {
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
+    color: #fafafa;
 }
 
 /*--------------------------------------------Heading*/
@@ -241,6 +246,7 @@ footer {
     margin-bottom: 20px;
     display: block;
     clear: both;
+    color: #fafafa;
 }
 
 .personal-info-item .key,
